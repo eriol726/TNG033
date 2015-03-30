@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1383915172 source:f:\dokument\progrmmering\tng033\lab1\code1\code1\uppg1\statistics.cpp
+	<iostream>
+	<cmath>
+	"statistics.h"
+
+1383915174 f:\dokument\progrmmering\tng033\lab1\code1\code1\uppg1\statistics.h
+	<iostream>
+
+1384000959 source:f:\dokument\progrmmering\tng033\lab1\code1\code1\uppg1\main_uppg1.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cctype>
+	<fstream>
+	"statistics.h"
+
+1383915172 source:f:\dokument\progrmmering\tng033\lab1\upg1\statistics.cpp
+	<iostream>
+	<cmath>
+	"statistics.h"
+
+1383915174 f:\dokument\progrmmering\tng033\lab1\upg1\statistics.h
+	<iostream>
+

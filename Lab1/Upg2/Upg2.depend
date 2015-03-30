@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1383869214 source:f:\dokument\progrmmering\tng033\lab1\uppg2\diver.cpp
+	<iomanip>
+	<ios>
+	<sstream>
+	"diver.h"
+
+1383863390 f:\dokument\progrmmering\tng033\lab1\uppg2\diver.h
+	<iostream>
+	<string>
+
+1383869116 source:f:\dokument\progrmmering\tng033\lab1\uppg2\main_uppg2.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"diver.h"
+
+1387119266 source:f:\dokument\progrmmering\tng033\lab1\upg2\diver.cpp
+	<iomanip>
+	<ios>
+	<sstream>
+	"diver.h"
+
+1384029679 f:\dokument\progrmmering\tng033\lab1\upg2\diver.h
+	<iostream>
+	<string>
+
+1384031598 source:f:\dokument\progrmmering\tng033\lab1\upg2\main_uppg2.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"diver.h"
+

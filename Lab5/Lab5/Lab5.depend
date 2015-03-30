@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1387185459 source:h:\tng033\lab5\lab5\diver.cpp
+	"diver.h"
+	<algorithm>
+	<iterator>
+	<cstring>
+	<iomanip>
+	<cmath>
+
+1387194070 h:\tng033\lab5\lab5\diver.h
+	<iostream>
+	<string>
+	<list>
+
+1387193391 source:h:\tng033\lab5\lab5\main_lab5.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+	"diver.h"
+
+1387185460 source:f:\dokument\progrmmering\tng033\lab5\lab5\diver.cpp
+	"diver.h"
+	<algorithm>
+	<iterator>
+	<cstring>
+	<iomanip>
+	<cmath>
+
+1387222565 f:\dokument\progrmmering\tng033\lab5\lab5\diver.h
+	<iostream>
+	<string>
+	<list>
+
+1387223627 source:f:\dokument\progrmmering\tng033\lab5\lab5\main_lab5.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+	"diver.h"
+
+1387284719 source:c:\users\eriol726\downloads\lab5\lab5\lab5\diver.cpp
+	"diver.h"
+	<algorithm>
+	<iterator>
+	<cstring>
+	<iomanip>
+	<cmath>
+
+1387284719 c:\users\eriol726\downloads\lab5\lab5\lab5\diver.h
+	<iostream>
+	<string>
+	<list>
+
+1387296100 source:c:\users\eriol726\downloads\lab5\lab5\lab5\main_lab5.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+	<map>
+	<algorithm>
+	<iterator>
+	"diver.h"
+
+1387284719 source:h:\tng033\lab5\lab5\lab5\diver.cpp
+	"diver.h"
+	<algorithm>
+	<iterator>
+	<cstring>
+	<iomanip>
+	<cmath>
+
+1387284719 h:\tng033\lab5\lab5\lab5\diver.h
+	<iostream>
+	<string>
+	<list>
+
+1387296375 source:h:\tng033\lab5\lab5\lab5\main_lab5.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+	<map>
+	<algorithm>
+	<iterator>
+	"diver.h"
+

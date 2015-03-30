@@ -1,0 +1,30 @@
+Display the binary file sorted by total points ...
+Nr   Name                  Round 1 Round 2 Round 3 Round 4 Round 5   Total
+D205 Ulrika Knape            51.1    53.5    56.6    56.6    56.6   274.4
+
+D207 Anna Lindberg           46.4    52.7    54.4    55.4    44.8   253.8
+
+D204 Fanny Duracks           44.3    42.9    44.8    43.3    54.4   229.8
+
+D210 Birgitta Conradson      44.2    43.6    31.4    37.8    31.4   188.4
+
+D202 Patricia McCormick      38.7    36.7    35.1    35.1    37.0   182.7
+
+D206 Greta Johanson          36.9    33.9    37.1    37.1    37.1   182.1
+
+D209 Kathy Peiss             35.4    38.5    35.6    35.6    35.6   180.8
+
+D203 Anna Andersson          37.4    39.7    34.2    34.2    34.2   179.7
+
+D211 Lisa Regnell            36.7    35.2    37.8    31.4    37.8   178.9
+
+D201 Marjorie Gestring       31.5    33.8    37.0    37.0    35.1   174.5
+
+D214 Gerda Meyerson          38.4    40.4    30.7    30.7    30.7   171.1
+
+D212 Leena Laine             34.1    31.0    32.0    32.0    32.0   161.0
+
+D213 Paulina Suokas          31.8    29.8    31.8    31.8    31.8   157.0
+
+D208 Gunilla Rosenhoff       32.0    34.8    27.9    27.2    27.9   149.7
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1385713919 source:f:\dokument\progrmmering\tng033\lab2.2\main.cpp
+	<iostream>
+	<iomanip>
+	"set.h"
+
+1385582679 f:\dokument\progrmmering\tng033\lab2.2\set.h
+	"node.h"
+
+1385462900 f:\dokument\progrmmering\tng033\lab2.2\node.h
+	<iostream>
+
+1385462900 source:f:\dokument\progrmmering\tng033\lab2.2\node.cpp
+	"node.h"
+
+1385713923 source:f:\dokument\progrmmering\tng033\lab2.2\set.cpp
+	"set.h"
+
+1385713919 source:f:\dokument\progrmmering\tng033\lab2\main.cpp
+	<iostream>
+	<iomanip>
+	"set.h"
+
+1385582679 f:\dokument\progrmmering\tng033\lab2\set.h
+	"node.h"
+
+1385462900 f:\dokument\progrmmering\tng033\lab2\node.h
+	<iostream>
+
+1385462900 source:f:\dokument\progrmmering\tng033\lab2\node.cpp
+	"node.h"
+
+1385742991 source:f:\dokument\progrmmering\tng033\lab2\set.cpp
+	"set.h"
+
